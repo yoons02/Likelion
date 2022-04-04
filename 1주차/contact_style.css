@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'scd2';
+    src: url(/style/S-Core_Dream_OTF/SCDream2.otf);
+}
+
+@font-face {
+    font-family: 'scd3';
+    src: url(/style/S-Core_Dream_OTF/SCDream3.otf);
+}
+
+@font-face {
+    font-family: 'scd5';
+    src: url(/style/S-Core_Dream_OTF/SCDream5.otf);
+}
+
+.button{
+    font-family: 'scd2';
+    text-align: left;
+    margin: 10px;
+}
+
+.hello{
+    font-family: 'scd5';
+    text-align: center;
+    margin: 10px;
+    padding: 20px;
+    border: 2px groove gray;
+    box-shadow: 0 0 30px 0 rgba(0,0,0,0.3);
+}
+
+#welcome{
+    font-family: 'scd2';
+    color:rgb(133, 132, 132)
+}
+
+.main{
+    border: 2px groove gray;
+    box-shadow: 0 0 30px 0 rgba(0,0,0,0.3);
+    margin: 10px;
+    padding: 20px;
+    height: 120%;
+    width: 95%;
+    float: left;
+}
+
+
+#contact{
+    font-family: 'scd3';
+    margin: 20px;
+    margin-bottom: 30px;
+}
+
+.main1{
+    border: 1px double gray;
+    margin: 35px;
+    margin-top: 45px;
+    width: 30%;
+    height: 60%;
+}
+
+#main2{
+
+}
+
+#main3{
+
+}
+
+#main4{
+
+}
+
+#main5{
+
+}
+
+#main6{
+
+}
+
+footer{
+    text-align: right;
+    border: 2px groove gray;
+    background-color: rgb(49, 49, 49);
+    font-size: 12px;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 600px;
+    height: 120px;
+}
+
+#me{
+    height:10px
+}
